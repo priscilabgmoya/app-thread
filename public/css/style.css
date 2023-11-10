@@ -26,3 +26,13 @@ main {
   background-color: beige;
   overflow: auto;
 }
+.buttonNew{
+  background-color: green;
+  border-radius: 20px;
+  border: none;
+  color: white;
+}
+textarea{
+  resize: none;
+  height: 50px;
+}
